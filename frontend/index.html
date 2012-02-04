@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="Author" content="Gerald Yeo" />
+	<meta name="description" content="SOC UNIX Printer Monitor" />
+  	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+
+    <title>Network Printer Monitor 5 | NUS School of Computing</title>
+	<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+
+</head>
+<body>
+	
+	<div id="wrapper">
+		<header class="main">
+		</header>
+		<nav id="printer-list">
+			<h2 class="mlink">View Printers &rsaquo;&rsaquo;</h2>
+			<ul>
+				<li><a href="#list-home" id="nav-home" class="active">Info</a></li>
+			</ul>
+		</nav>
+		<div id="queue-display">
+			<div id="list-home" class="listQ show">
+				<img class="logo nmobile" src="images/pm.png" alt="" />
+				<h2>Printer Monitor v5</h2>
+				<p class="nmobile">This site is mobile friendly. Visit: <br /><a href="https://www.comp.nus.edu.sg/~siglabs/pm">https://www.comp.nus.edu.sg/~siglabs/pm</a></p>
+				
+				<p class="small"><strong>Supported Printers:</strong> psts, pstsb, pstsc, psc008, psc011, psc245</p>
+				<cite>&copy; 2011, SigLabs</cite>
+				<div class="controlSet">
+					<h3>Control: </h3>
+					<ul>
+						<li class="ctrl-item"><a id="liveScroll">Queue Scrolling <strong>(Disabled)</strong></a></li>
+						<li class="ctrl-item"><a id="liveUpdate">Live Queue Update <strong class="ok">(Enabled)</strong></a></li>
+					</ul>					
+				</div>
+			</div>
+		</div>	
+		<footer class="main">
+			<img class="qr-img" src="images/qr-url.png" alt="" />
+		</footer>
+
+
+
+	<!--end wrapper-->
+	</div>
+
+	<script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
+	<script type="text/javascript" src="js/get.js"></script>
+	<script type="text/javascript" src="js/pm5.js"></script>
+
+
+
+</body>
+
+</html>
+

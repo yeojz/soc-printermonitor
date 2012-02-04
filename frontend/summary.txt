@@ -1,0 +1,19 @@
+{"printmonitor" : [{"group": "psts","total": "0","types" : [{ 
+"pname": "psts" ,"count": "0","queue": []},{ 
+"pname": "psts-dx" ,"count": "0","queue": []},{ 
+"pname": "psts-sx" ,"count": "0","queue": []}]},{"group": "pstsb","total": "0","types" : [{ 
+"pname": "pstsb" ,"count": "0","queue": []},{ 
+"pname": "pstsb-dx" ,"count": "0","queue": []},{ 
+"pname": "pstsb-sx" ,"count": "0","queue": []}]},{"group": "pstsc","total": "0","types" : [{ 
+"pname": "pstsc" ,"count": "0","queue": []},{ 
+"pname": "pstsc-dx" ,"count": "0","queue": []},{ 
+"pname": "pstsc-sx" ,"count": "0","queue": []}]},{"group": "psc008","total": "0","types" : [{ 
+"pname": "psc008" ,"count": "0","queue": []},{ 
+"pname": "psc008-dx" ,"count": "0","queue": []},{ 
+"pname": "psc008-sx" ,"count": "0","queue": []}]},{"group": "psc011","total": "0","types" : [{ 
+"pname": "psc011" ,"count": "0","queue": []},{ 
+"pname": "psc011-dx" ,"count": "0","queue": []},{ 
+"pname": "psc011-sx" ,"count": "0","queue": []}]},{"group": "psc245","total": "0","types" : [{ 
+"pname": "psc245" ,"count": "0","queue": []},{ 
+"pname": "psc245-dx" ,"count": "0","queue": []},{ 
+"pname": "psc245-sx" ,"count": "0","queue": []}]}],"time" : "1328322952152"}
